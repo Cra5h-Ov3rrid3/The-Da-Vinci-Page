@@ -81,6 +81,7 @@
 ## Training
 ![](https://github.com/iamroot-GitHub/Useful-Websites/blob/810887cc0b75f1c0212635ebbaa164b43a353f8b/Resources/UWFTCP_02.png)
  - [HACKTHEBOX](https://www.hackthebox.com/)
+ - [O'REILLY](https://www.oreilly.com/member/login/?next=https%3A//learning.oreilly.com/interactive/%3Ftype%3Dscenario%26page%3D1%26order_by%3Dcreated_at)
  - [OverTheWire - Wargames](https://overthewire.org/wargames/)
  - [Root Me](https://www.root-me.org/?lang=en)
  - [TryHackMe](https://tryhackme.com/)
