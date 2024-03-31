@@ -11,7 +11,7 @@
 7.  [Linux](https://github.com/Cra5h-Ov3rrid3/The-Da-Vinci-Page#linux)
 8.  [News](https://github.com/Cra5h-Ov3rrid3/The-Da-Vinci-Page#news)
 9.  [OSINT Framework](https://github.com/Cra5h-Ov3rrid3/The-Da-Vinci-Page#osint-framework)
-10.  [Penetration Testing](https://github.com/Cra5h-Ov3rrid3/The-Da-Vinci-Page#penetration-testing)
+10. [Penetration Testing](https://github.com/Cra5h-Ov3rrid3/The-Da-Vinci-Page#penetration-testing)
 11. [Podcasts](https://github.com/Cra5h-Ov3rrid3/The-Da-Vinci-Page#podcasts)
 12. [SANS](https://github.com/Cra5h-Ov3rrid3/The-Da-Vinci-Page#sysadmin-audit-network-and-security-sans-institue)
 13. [Training](https://github.com/Cra5h-Ov3rrid3/The-Da-Vinci-Page#training)
@@ -36,17 +36,10 @@
 ## Linux
  - [Linux Repository](https://github.com/Cra5h-Ov3rrid3/Linux/blob/bb0e7739cc9911fae22a2ea58e40c2a7abae2098/README.md)
  # News
- - [BLEEPINGCOMPUTER](https://www.bleepingcomputer.com/)
- - [Cybersecurity INSIDERS](https://www.cybersecurity-insiders.com/)
- - [DARKReading](https://www.darkreading.com/)
- - [Hacker News](https://news.ycombinator.com/news)
- - [Kerbs on Security](https://krebsonsecurity.com/)
- - [MorningStar Security](https://morningstarsecurity.com/)
- - [threatpost](https://threatpost.com/)
+ - [News Repository](https://github.com/Cra5h-Ov3rrid3/News/blob/4ff01803319be2db033a80a37dbb7645c393b4aa/README.md)
 ## OSINT Framework
  - [OSINT Framework](https://osintframework.com/)
 ## Penetration Testing
-![](https://github.com/iamroot-GitHub/Useful-Websites/blob/52424c127b082533fc3a5756c7bc9c0fa53a1c16/Resources/UWFTCP_03.png)
  - [PenTest Repository](https://github.com/Cra5h-Ov3rrid3/Penetration-Testing/blob/f4f62c3d9b5aaf59e1852355e2c2135f94500f36/README.md)
 ## Podcasts
  - [BEER with Talos](https://talosintelligence.com/podcasts/shows/beers_with_talos)
