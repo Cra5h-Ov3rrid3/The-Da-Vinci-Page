@@ -42,7 +42,7 @@
 ## Penetration Testing
  - [Penetration Testing Repository](https://github.com/Cra5h-Ov3rrid3/Penetration-Testing/blob/f4f62c3d9b5aaf59e1852355e2c2135f94500f36/README.md)
 ## Podcasts
- - [BEER with Talos](https://talosintelligence.com/podcasts/shows/beers_with_talos)
+ - [Podcasts Repository](https://github.com/Cra5h-Ov3rrid3/Podcasts/blob/95b7e506aac39620b282bda63610ef66f6706fbb/README.md)
 ## SysAdmin, Audit, Network, and Security (SANS) Institue
  - [The Ultimate List of SANS Cheat Sheets](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/)
 ## Training
