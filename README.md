@@ -44,7 +44,7 @@
 ## Podcasts
  - [Podcasts Repository](https://github.com/Cra5h-Ov3rrid3/Podcasts/blob/95b7e506aac39620b282bda63610ef66f6706fbb/README.md)
 ## SysAdmin, Audit, Network, and Security (SANS) Institue
- - [The Ultimate List of SANS Cheat Sheets](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/)
+ - [SANS Repository](https://github.com/Cra5h-Ov3rrid3/SysAdmin-Audit-Network-and-Security-Institue/blob/35a8b1afbd736297f985bcfb40fe052e665f0de6/README.md)
 ## Training
 ![](https://github.com/iamroot-GitHub/Useful-Websites/blob/810887cc0b75f1c0212635ebbaa164b43a353f8b/Resources/UWFTCP_02.png)
  - [HACKTHEBOX](https://www.hackthebox.com/)
