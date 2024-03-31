@@ -32,7 +32,7 @@
 ## Cybersecurity
  - [emtuls - Awesome Cyber Security List](https://github.com/emtuls/Awesome-Cyber-Security-List)
 ## CyberSeek
- - [CyberSeek](https://www.cyberseek.org/)
+ - [CyberSeek Repository](https://github.com/Cra5h-Ov3rrid3/CyberSeek/blob/2e3bd8741dcb7995d854e7f18c9c8a2dd86b8a6e/README.md)
 ## Linux
  - [GeeksforGeeks - Linux Commands](https://www.geeksforgeeks.org/linux-commands/?ref=lbp)
  - [GeeksforGeeks - Introduction to Kali Linux](https://www.geeksforgeeks.org/introduction-to-kali-linux/?ref=shm)
