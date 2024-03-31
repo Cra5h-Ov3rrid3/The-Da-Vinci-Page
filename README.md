@@ -23,7 +23,7 @@
 ## National Institute of Standards and Technology (NIST)
  - [NIST Repository](https://github.com/Cra5h-Ov3rrid3/National-Institute-of-Standards-and-Technology/blob/0bbc8d4fa886f342b29e533c3bb9f5b60c3d396e/README.md)
 ## Lockheed Martin
- - [Cyber Kill Chain®](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html)
+ - [Lockheed Martin Repository](https://github.com/Cra5h-Ov3rrid3/Lockheed-Martin/blob/49e5ff554efb79967bd1dd79de7f0eb3907b729f/README.md)
 ## MITRE
  - [Common Vulnerabilities and Exposures (CVE)](https://cve.mitre.org/)
  - [Common Weakness Enumeration (CWE)](https://cwe.mitre.org/index.html)
