@@ -25,10 +25,7 @@
 ## Lockheed Martin
  - [Lockheed Martin Repository](https://github.com/Cra5h-Ov3rrid3/Lockheed-Martin/blob/49e5ff554efb79967bd1dd79de7f0eb3907b729f/README.md)
 ## MITRE
- - [Common Vulnerabilities and Exposures (CVE)](https://cve.mitre.org/)
- - [Common Weakness Enumeration (CWE)](https://cwe.mitre.org/index.html)
- - [MITRE ATT&CK®](https://attack.mitre.org/)
- - [D3FEND™](https://d3fend.mitre.org/)
+ - [MITRE Repository](https://github.com/Cra5h-Ov3rrid3/MITRE/blob/a3ef8b932dc23a6d9d63a6a0404c27881847448a/README.md)
 ---
 ## Blogs
  - [Schneier on Security](https://www.schneier.com/)
