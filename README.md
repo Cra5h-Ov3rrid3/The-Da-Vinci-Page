@@ -49,7 +49,7 @@
 ## SysAdmin, Audit, Network, and Security (SANS) Institue
  - [SANS Repository](https://github.com/Cra5h-Ov3rrid3/SysAdmin-Audit-Network-and-Security-Institue/blob/35a8b1afbd736297f985bcfb40fe052e665f0de6/README.md)
 ## Training
- - [Training Repository](https://github.com/Cra5h-Ov3rrid3/Training/blob/29c71da850ba13568c7a7bc783da13ce909fcfe5/README.md)
+ - [Training Repository](https://github.com/Cra5h-Ov3rrid3/Training/blob/a86f50bfdfd9834b1b805d6bb132d9b495196816/README.md)
 ## Tools
  - [Tools Repository](https://github.com/Cra5h-Ov3rrid3/Tools/blob/4d03dc9f536a9f10263ff6853544030c0cb2aa6e/README.md)
 ## Websites Not Yet Categorized
