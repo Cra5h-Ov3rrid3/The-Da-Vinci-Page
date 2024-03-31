@@ -46,12 +46,7 @@
 ## SysAdmin, Audit, Network, and Security (SANS) Institue
  - [SANS Repository](https://github.com/Cra5h-Ov3rrid3/SysAdmin-Audit-Network-and-Security-Institue/blob/35a8b1afbd736297f985bcfb40fe052e665f0de6/README.md)
 ## Training
-![](https://github.com/iamroot-GitHub/Useful-Websites/blob/810887cc0b75f1c0212635ebbaa164b43a353f8b/Resources/UWFTCP_02.png)
- - [HACKTHEBOX](https://www.hackthebox.com/)
- - [O'REILLY](https://www.oreilly.com/member/login/?next=https%3A//learning.oreilly.com/interactive/%3Ftype%3Dscenario%26page%3D1%26order_by%3Dcreated_at)
- - [OverTheWire - Wargames](https://overthewire.org/wargames/)
- - [Root Me](https://www.root-me.org/?lang=en)
- - [TryHackMe](https://tryhackme.com/)
+ - [Training Repository](https://github.com/Cra5h-Ov3rrid3/Training/blob/29c71da850ba13568c7a7bc783da13ce909fcfe5/README.md)
 ## Tools
  - [Cheatography - Aircrack-ng Suite Cheat Sheet by itnetsec](https://cheatography.com/itnetsec/cheat-sheets/aircrack-ng-suite/)
  - [CISCO Talos](https://talosintelligence.com/)
