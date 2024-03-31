@@ -38,7 +38,7 @@
  # News
  - [News Repository](https://github.com/Cra5h-Ov3rrid3/News/blob/4ff01803319be2db033a80a37dbb7645c393b4aa/README.md)
 ## OSINT Framework
- - [OSINT Framework](https://osintframework.com/)
+ - [OSINT Framework Repository](https://github.com/Cra5h-Ov3rrid3/OSINT-Framework/blob/adabe5d78283ff8a455bcde6ba5c88192db33a22/README.md)
 ## Penetration Testing
  - [Penetration Testing Repository](https://github.com/Cra5h-Ov3rrid3/Penetration-Testing/blob/f4f62c3d9b5aaf59e1852355e2c2135f94500f36/README.md)
 ## Podcasts
