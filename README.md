@@ -56,7 +56,6 @@
 ## Penetration Testing
 ![](https://github.com/iamroot-GitHub/Useful-Websites/blob/52424c127b082533fc3a5756c7bc9c0fa53a1c16/Resources/UWFTCP_03.png)
  - [Penetration Testing Repository](https://github.com/Cra5h-Ov3rrid3/Penetration-Testing/blob/f4f62c3d9b5aaf59e1852355e2c2135f94500f36/README.md)
-(https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Linux%20-%20Privilege%20Escalation.md)
 ## Podcasts
  - [BEER with Talos](https://talosintelligence.com/podcasts/shows/beers_with_talos)
 ## SysAdmin, Audit, Network, and Security (SANS) Institue
