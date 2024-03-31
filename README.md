@@ -30,7 +30,7 @@
 ## Blogs
  - [Blogs Repository](https://github.com/Cra5h-Ov3rrid3/Blogs/blob/4ada97c5160c4abfeacc0df49462ca63837292cb/README.md)
 ## Cybersecurity
- - [emtuls - Awesome Cyber Security List](https://github.com/emtuls/Awesome-Cyber-Security-List)
+ - [Cybersecurity Repository](https://github.com/Cra5h-Ov3rrid3/Cybersecurity/blob/cc5f26b936253c3cc8d6bebd1d2f3b6aa2c8837b/README.md)
 ## CyberSeek
  - [CyberSeek Repository](https://github.com/Cra5h-Ov3rrid3/CyberSeek/blob/2e3bd8741dcb7995d854e7f18c9c8a2dd86b8a6e/README.md)
 ## Linux
