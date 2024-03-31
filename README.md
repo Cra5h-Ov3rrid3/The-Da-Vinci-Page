@@ -34,12 +34,8 @@
 ## CyberSeek
  - [CyberSeek Repository](https://github.com/Cra5h-Ov3rrid3/CyberSeek/blob/2e3bd8741dcb7995d854e7f18c9c8a2dd86b8a6e/README.md)
 ## Linux
- - [GeeksforGeeks - Linux Commands](https://www.geeksforgeeks.org/linux-commands/?ref=lbp)
- - [GeeksforGeeks - Introduction to Kali Linux](https://www.geeksforgeeks.org/introduction-to-kali-linux/?ref=shm)
- - [GURU99 - Linux Command Cheat Sheet](https://www.guru99.com/linux-commands-cheat-sheet.html)
- - [jctosta - Screen Cheat Sheet](https://gist.github.com/jctosta/af918e1618682638aa82)
- - [Luong Komorebi - Awesome Linux Software](https://github.com/luong-komorebi/Awesome-Linux-Software)
-## News
+ - [Linux Repository](https://github.com/Cra5h-Ov3rrid3/Linux/blob/bb0e7739cc9911fae22a2ea58e40c2a7abae2098/README.md)
+ # News
  - [BLEEPINGCOMPUTER](https://www.bleepingcomputer.com/)
  - [Cybersecurity INSIDERS](https://www.cybersecurity-insiders.com/)
  - [DARKReading](https://www.darkreading.com/)
