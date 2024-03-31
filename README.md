@@ -40,7 +40,7 @@
 ## OSINT Framework
  - [OSINT Framework](https://osintframework.com/)
 ## Penetration Testing
- - [PenTest Repository](https://github.com/Cra5h-Ov3rrid3/Penetration-Testing/blob/f4f62c3d9b5aaf59e1852355e2c2135f94500f36/README.md)
+ - [Penetration Testing Repository](https://github.com/Cra5h-Ov3rrid3/Penetration-Testing/blob/f4f62c3d9b5aaf59e1852355e2c2135f94500f36/README.md)
 ## Podcasts
  - [BEER with Talos](https://talosintelligence.com/podcasts/shows/beers_with_talos)
 ## SysAdmin, Audit, Network, and Security (SANS) Institue
