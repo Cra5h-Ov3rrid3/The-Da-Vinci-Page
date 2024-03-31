@@ -68,6 +68,7 @@
  - [*HackTricks](https://book.hacktricks.xyz/welcome/readme)
  - [*HackTricks/Checklist - Linux Privilege Escalation](https://book.hacktricks.xyz/linux-hardening/linux-privilege-escalation-checklist)
  - [Linux Privilege Escalation Jutsus](https://amandaszampias.blogspot.com/2020/11/linux-privilege-escalation-jutsus.html)
+ - [Pentest Book](https://pentestbook.six2dez.com/)
  - [PENETRATION TESTING LAB](https://pentestlab.blog/2019/11/04/persistence-scheduled-tasks/)
  - [pentestmonkey](https://pentestmonkey.net/)
  - [Read Team Notes - Pentesting Cheatsheets](https://www.ired.team/offensive-security-experiments/offensive-security-cheetsheets)
