@@ -19,10 +19,9 @@
 15. [Websites](https://github.com/Cra5h-Ov3rrid3/The-Da-Vinci-Page#websites)
 ---
 ## Cybersecurity & Infrastructure Security Agency (CISA)
- - [Cybersecurity & Infrastructure Security Agency (CISA) Repository](https://github.com/Cra5h-Ov3rrid3/Cybersecurity-Infrastructure-Security-Agency/blob/3e63ae8fce0bc3e0499aa1feebf87f22f5e3af7c/README.md)
+ - [CISA Repository](https://github.com/Cra5h-Ov3rrid3/Cybersecurity-Infrastructure-Security-Agency/blob/3e63ae8fce0bc3e0499aa1feebf87f22f5e3af7c/README.md)
 ## National Institute of Standards and Technology (NIST)
- - [NICE Framework Resource Center](https://github.com/Cra5h-Ov3rrid3/National-Institute-of-Standards-and-Technology/blob/0bbc8d4fa886f342b29e533c3bb9f5b60c3d396e/README.md)
- - [National Vulnerability Database (NVD)](https://nvd.nist.gov/)
+ - [NIST Repository](https://github.com/Cra5h-Ov3rrid3/National-Institute-of-Standards-and-Technology/blob/0bbc8d4fa886f342b29e533c3bb9f5b60c3d396e/README.md)
 ## Lockheed Martin
  - [Cyber Kill Chain®](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html)
 ## MITRE
@@ -55,7 +54,7 @@
  - [OSINT Framework](https://osintframework.com/)
 ## Penetration Testing
 ![](https://github.com/iamroot-GitHub/Useful-Websites/blob/52424c127b082533fc3a5756c7bc9c0fa53a1c16/Resources/UWFTCP_03.png)
- - [Penetration Testing Repository](https://github.com/Cra5h-Ov3rrid3/Penetration-Testing/blob/f4f62c3d9b5aaf59e1852355e2c2135f94500f36/README.md)
+ - [PenTest Repository](https://github.com/Cra5h-Ov3rrid3/Penetration-Testing/blob/f4f62c3d9b5aaf59e1852355e2c2135f94500f36/README.md)
 ## Podcasts
  - [BEER with Talos](https://talosintelligence.com/podcasts/shows/beers_with_talos)
 ## SysAdmin, Audit, Network, and Security (SANS) Institue
