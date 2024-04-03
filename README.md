@@ -29,7 +29,7 @@
 ## MITRE
  - [MITRE Repository](https://github.com/Cra5h-Ov3rrid3/MITRE.git)
 ## Blogs
- - [Blogs Repository](https://github.com/Cra5h-Ov3rrid3/Blogs/blob/4ada97c5160c4abfeacc0df49462ca63837292cb/README.md)
+ - [Blogs Repository](https://github.com/Cra5h-Ov3rrid3/Blogs.git)
 ## Cybersecurity
  - [Cybersecurity Repository](https://github.com/Cra5h-Ov3rrid3/Cybersecurity/blob/cc5f26b936253c3cc8d6bebd1d2f3b6aa2c8837b/README.md)
 ## CyberSeek
