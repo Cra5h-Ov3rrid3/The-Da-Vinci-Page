@@ -37,7 +37,7 @@
 ## Linux
  - [Linux Repository](https://github.com/Cra5h-Ov3rrid3/Linux/blob/bb0e7739cc9911fae22a2ea58e40c2a7abae2098/README.md)
 ## Merchandise
- - [Merchandise Repository](https://github.com/Cra5h-Ov3rrid3/Merchandise/blob/e925992b6b2c8bc1925c2ef9f96b92f104dbda0b/README.md)
+ - [Merchandise Repository](https://github.com/Cra5h-Ov3rrid3/Merchandise.git)
 ## News
  - [News Repository](https://github.com/Cra5h-Ov3rrid3/News/blob/4ff01803319be2db033a80a37dbb7645c393b4aa/README.md)
 ## OSINT Framework
