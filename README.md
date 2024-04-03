@@ -43,7 +43,7 @@
 ## OSINT Framework
  - [OSINT Framework Repository](https://github.com/Cra5h-Ov3rrid3/OSINT-Framework/blob/adabe5d78283ff8a455bcde6ba5c88192db33a22/README.md)
 ## Penetration Testing
- - [Penetration Testing Repository](https://github.com/Cra5h-Ov3rrid3/Penetration-Testing/blob/f4f62c3d9b5aaf59e1852355e2c2135f94500f36/README.md)
+ - [Penetration Testing Repository](https://github.com/Cra5h-Ov3rrid3/Penetration-Testing.git)
 ## Podcasts
  - [Podcasts Repository](https://github.com/Cra5h-Ov3rrid3/Podcasts/blob/95b7e506aac39620b282bda63610ef66f6706fbb/README.md)
 ## SysAdmin, Audit, Network, and Security (SANS) Institue
