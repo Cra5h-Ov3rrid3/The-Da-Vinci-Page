@@ -35,7 +35,7 @@
 ## CyberSeek
  - [CyberSeek Repository](https://github.com/Cra5h-Ov3rrid3/CyberSeek.git)
 ## Linux
- - [Linux Repository](https://github.com/Cra5h-Ov3rrid3/Linux/blob/bb0e7739cc9911fae22a2ea58e40c2a7abae2098/README.md)
+ - [Linux Repository](https://github.com/Cra5h-Ov3rrid3/Linux.git)
 ## Merchandise
  - [Merchandise Repository](https://github.com/Cra5h-Ov3rrid3/Merchandise.git)
 ## News
