@@ -31,7 +31,7 @@
 ## Blogs
  - [Blogs Repository](https://github.com/Cra5h-Ov3rrid3/Blogs.git)
 ## Cybersecurity
- - [Cybersecurity Repository](https://github.com/Cra5h-Ov3rrid3/Cybersecurity/blob/cc5f26b936253c3cc8d6bebd1d2f3b6aa2c8837b/README.md)
+ - [Cybersecurity Repository](https://github.com/Cra5h-Ov3rrid3/Cybersecurity.git)
 ## CyberSeek
  - [CyberSeek Repository](https://github.com/Cra5h-Ov3rrid3/CyberSeek.git)
 ## Linux
