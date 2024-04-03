@@ -27,7 +27,7 @@
 ## Lockheed Martin
  - [Lockheed Martin Repository](https://github.com/Cra5h-Ov3rrid3/Lockheed-Martin.git)
 ## MITRE
- - [MITRE Repository](https://github.com/Cra5h-Ov3rrid3/MITRE/blob/a3ef8b932dc23a6d9d63a6a0404c27881847448a/README.md)
+ - [MITRE Repository](https://github.com/Cra5h-Ov3rrid3/MITRE.git)
 ## Blogs
  - [Blogs Repository](https://github.com/Cra5h-Ov3rrid3/Blogs/blob/4ada97c5160c4abfeacc0df49462ca63837292cb/README.md)
 ## Cybersecurity
