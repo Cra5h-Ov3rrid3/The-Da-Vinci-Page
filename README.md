@@ -39,7 +39,7 @@
 ## Merchandise
  - [Merchandise Repository](https://github.com/Cra5h-Ov3rrid3/Merchandise.git)
 ## News
- - [News Repository](https://github.com/Cra5h-Ov3rrid3/News/blob/4ff01803319be2db033a80a37dbb7645c393b4aa/README.md)
+ - [News Repository](https://github.com/Cra5h-Ov3rrid3/News.git)
 ## OSINT Framework
  - [OSINT Framework Repository](https://github.com/Cra5h-Ov3rrid3/OSINT-Framework/blob/adabe5d78283ff8a455bcde6ba5c88192db33a22/README.md)
 ## Penetration Testing
