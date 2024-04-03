@@ -45,7 +45,7 @@
 ## Penetration Testing
  - [Penetration Testing Repository](https://github.com/Cra5h-Ov3rrid3/Penetration-Testing.git)
 ## Podcasts
- - [Podcasts Repository](https://github.com/Cra5h-Ov3rrid3/Podcasts/blob/95b7e506aac39620b282bda63610ef66f6706fbb/README.md)
+ - [Podcasts Repository](https://github.com/Cra5h-Ov3rrid3/Podcasts.git)
 ## SysAdmin, Audit, Network, and Security (SANS) Institue
  - [SANS Repository](https://github.com/Cra5h-Ov3rrid3/SysAdmin-Audit-Network-and-Security-Institue/blob/35a8b1afbd736297f985bcfb40fe052e665f0de6/README.md)
 ## Training
