@@ -18,7 +18,6 @@
 14. [SANS]()
 15. [Training]()
 16. [Tools]()
-17. [Websites Not Yet Categorized]()
 ---
 ## Cybersecurity & Infrastructure Security Agency (CISA)
  - [CISA Repository](https://github.com/Cra5h-Ov3rrid3/Cybersecurity-Infrastructure-Security-Agency.git)
@@ -47,10 +46,8 @@
 ## Podcasts
  - [Podcasts Repository](https://github.com/Cra5h-Ov3rrid3/Podcasts.git)
 ## SysAdmin, Audit, Network, and Security (SANS) Institue
- - [SANS Repository](https://github.com/Cra5h-Ov3rrid3/SysAdmin-Audit-Network-and-Security-Institue/blob/35a8b1afbd736297f985bcfb40fe052e665f0de6/README.md)
+ - [SANS Repository](https://github.com/Cra5h-Ov3rrid3/SysAdmin-Audit-Network-and-Security-Institue.git)
 ## Training
  - [Training Repository](https://github.com/Cra5h-Ov3rrid3/Training.git)
 ## Tools
  - [Tools Repository](https://github.com/Cra5h-Ov3rrid3/Tools.git)
-## Websites Not Yet Categorized
- - [Internet Archive - Wayback Machine](https://archive.org/)
