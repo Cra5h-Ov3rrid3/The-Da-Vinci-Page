@@ -25,7 +25,7 @@
 ## National Institute of Standards and Technology (NIST)
  - [NIST Repository](https://github.com/Cra5h-Ov3rrid3/National-Institute-of-Standards-and-Technology.git)
 ## Lockheed Martin
- - [Lockheed Martin Repository](https://github.com/Cra5h-Ov3rrid3/Lockheed-Martin/blob/49e5ff554efb79967bd1dd79de7f0eb3907b729f/README.md)
+ - [Lockheed Martin Repository](https://github.com/Cra5h-Ov3rrid3/Lockheed-Martin.git)
 ## MITRE
  - [MITRE Repository](https://github.com/Cra5h-Ov3rrid3/MITRE/blob/a3ef8b932dc23a6d9d63a6a0404c27881847448a/README.md)
 ## Blogs
