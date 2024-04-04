@@ -29,7 +29,7 @@
 ## MITRE
  - [MITRE Repository](https://github.com/Cra5h-Ov3rrid3/MITRE.git)
 ## Bash Scripts
- - [Bash Scripts Repository]()
+ - [Bash Scripts Repository](https://github.com/Cra5h-Ov3rrid3/Bash-Scripts.git)
 ## Blogs
  - [Blogs Repository](https://github.com/Cra5h-Ov3rrid3/Blogs.git)
 ## Cybersecurity
