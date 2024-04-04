@@ -11,7 +11,7 @@
 7.  [Cybersecurity]()
 8.  [CyberSeek]()
 9.  [Linux]()
-10.  [Merchandise]()
+10. [Merchandise]()
 11. [News]()
 12. [OSINT Framework]()
 13. [Penetration Testing]()
