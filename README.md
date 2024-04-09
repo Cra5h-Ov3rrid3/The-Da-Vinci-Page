@@ -15,10 +15,11 @@
 11. [News]()
 12. [OSINT Framework]()
 13. [Penetration Testing]()
-14. [Podcasts]()
-15. [SANS]()
-16. [Training]()
-17. [Tools]()
+14. [Penetration Testing Lab]()
+15. [Podcasts]()
+16. [SANS]()
+17. [Training]()
+18. [Tools]()
 ---
 ## Cybersecurity & Infrastructure Security Agency (CISA)
  - [CISA Repository](https://github.com/Cra5h-Ov3rrid3/Cybersecurity-Infrastructure-Security-Agency.git)
@@ -46,6 +47,8 @@
  - [OSINT Framework Repository](https://github.com/Cra5h-Ov3rrid3/OSINT-Framework.git)
 ## Penetration Testing
  - [Penetration Testing Repository](https://github.com/Cra5h-Ov3rrid3/Penetration-Testing.git)
+## Penetration Testing Lab
+- [Penetration Testing Lab Repository]()
 ## Podcasts
  - [Podcasts Repository](https://github.com/Cra5h-Ov3rrid3/Podcasts.git)
 ## SysAdmin, Audit, Network, and Security (SANS) Institue
