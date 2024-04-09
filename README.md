@@ -48,7 +48,7 @@
 ## Penetration Testing
  - [Penetration Testing Repository](https://github.com/Cra5h-Ov3rrid3/Penetration-Testing.git)
 ## Penetration Testing Lab
-- [Penetration Testing Lab Repository]()
+- [Penetration Testing Lab Repository](https://github.com/Cra5h-Ov3rrid3/Penetration-Testing-Lab.git)
 ## Podcasts
  - [Podcasts Repository](https://github.com/Cra5h-Ov3rrid3/Podcasts.git)
 ## SysAdmin, Audit, Network, and Security (SANS) Institue
